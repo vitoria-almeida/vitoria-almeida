@@ -7,7 +7,7 @@
         <li>Tenho 21 anos e sou de Fortaleza-CE</li>
         <li>Estou cursando Análise e Desenvolvimento de Sistemas</li>
         <li>Eterna estudante de Javascript</li>
-    </ul><br>
+    </ul>
 </div>
 
 <div>
